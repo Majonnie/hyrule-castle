@@ -1,5 +1,5 @@
 # hyrule-castle
-Jeu en ligne de commandes basé sur l'univers de Zelda où le joueur doit combattre des monstres (puis un boss à la fin) à l'aide de deux actions possibles (attaquer ou se soigner).<br>
+Jeu en lignes de commandes de combats en tour par tour basé sur l'univers de Zelda. Le joueur doit affronter des monstres puis un boss et peut choisir d’attaquer ou de se soigner à chaque tour.<br>
 Le fichier `hyrule_castle.sh` vous permettra de jouer au jeu en anglais, et le fichier `hyrule_caslte_vf.sh` vous permettra d'y jouer en français.
 
 * Lancement :
